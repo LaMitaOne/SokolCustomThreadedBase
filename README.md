@@ -43,4 +43,6 @@ v0.1:
    
      Initial Release: Successfully merged the VCL TThread architecture with Neslib's TSampleApp lifecycle. 
      Performance: Disabled hardware V-Sync to allow manual HighResTimer frame pacing.
-     Demo: Implemented the classic bouncing 3D wireframe cube (ported 1:1 from the SDL3/Raylib samples) rendered via sglDraw.
+     Demo: Implemented the classic bouncing 3D wireframe cube (ported 1:1 from the SDL3/Raylib samples) rendered via sglDraw. 
+
+Sokol units from neslib: https://github.com/neslib/Neslib.Sokol    
