@@ -5,7 +5,6 @@
   Neslib.Sokol into VCL applications without blocking the UI thread.
 
   Author:  Lara Miriam Tamy Reschke / LamitaOne
-  Date:    2024
   License: MIT
 
   ----------------------------------------------------------------------------
