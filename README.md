@@ -46,3 +46,7 @@ v0.1:
      Demo: Implemented the classic bouncing 3D wireframe cube (ported 1:1 from the SDL3/Raylib samples) rendered via sglDraw. 
 
 Sokol units from neslib: https://github.com/neslib/Neslib.Sokol    
+   
+
+smaller window makes a bit more fps lol 7600...   
+<img width="594" height="291" alt="Unbenannt" src="https://github.com/user-attachments/assets/1657df5e-20a0-4151-8339-f03a27a48a53" />
