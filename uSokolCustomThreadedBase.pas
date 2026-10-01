@@ -1,5 +1,5 @@
 {*******************************************************************************
-  Neslib.SokolCustomThreadedBase v0.1
+  Neslib.SokolCustomThreadedBase v1.0
 ********************************************************************************
   A high-performance, threaded Delphi component that seamlessly integrates
   Neslib.Sokol into VCL applications without blocking the UI thread.
