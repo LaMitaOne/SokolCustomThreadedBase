@@ -1,7 +1,7 @@
 # SokolCustomThreadedBase
 A high-performance, threaded Delphi component that integrates Neslib.Sokol into VCL applications without blocking the UI thread.
 
-Neslib.SokolCustomThreadedBase v0.1    
+Neslib.SokolCustomThreadedBase v1.0    
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/SokolCustomThreadedBase)
     
@@ -38,6 +38,10 @@ Technical Requirements:
      Windows (due to Winapi.Windows usage for threading and timer resolution)
      
 Latest Changes:   
+
+v1.0: 
+
+    Since my threadedbases rendering with thousands fps stable ...think we can put them to 1.0 :) 
    
 v0.1:    
    
